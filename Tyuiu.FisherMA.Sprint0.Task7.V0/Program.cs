@@ -56,7 +56,7 @@ namespace Tyuiu.FisherMA.Sprint0.Task7.V0
             }
             else
             {
-                Console.WriteLine("ОШибка! Исходные массивы имеют разное количество элементов");
+                Console.WriteLine("ОШИБКА! Исходные массивы имеют разное количество элементов");
             }
             Console.ReadKey();
         }
